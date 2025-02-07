@@ -1,0 +1,14 @@
+node_modules
+dist
+logs
+logs/*
+.idea
+.DS_Store
+resources/*
+.vscode
+.env
+package-lock.json
+/exception/
+/http/
+/info/
+/error/
